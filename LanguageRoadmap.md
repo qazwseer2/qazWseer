@@ -1,4 +1,4 @@
-1. [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg)](https://www.python.org/)
+1. [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/230px-Python_logo_and_wordmark.svg.png)](https://www.python.org/)
 2. [![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 3. [![Java](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg)](https://www.java.com/)
 4. [![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg)](https://isocpp.org/)
